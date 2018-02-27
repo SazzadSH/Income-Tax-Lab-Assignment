@@ -1,0 +1,11 @@
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\bin\Debug\netcoreapp2.0\TaxApp.deps.json
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\bin\Debug\netcoreapp2.0\TaxApp.runtimeconfig.json
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\bin\Debug\netcoreapp2.0\TaxApp.runtimeconfig.dev.json
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\bin\Debug\netcoreapp2.0\TaxApp.dll
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\bin\Debug\netcoreapp2.0\TaxApp.pdb
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.csprojResolveAssemblyReference.cache
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.csproj.CoreCompileInputs.cache
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.AssemblyInfoInputs.cache
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.AssemblyInfo.cs
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.dll
+E:\Work\Programming\C#\Visual Studio Project\TaxAppSLN\TaxApp\obj\Debug\netcoreapp2.0\TaxApp.pdb
