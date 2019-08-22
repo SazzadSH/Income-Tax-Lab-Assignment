@@ -1,2 +1,2 @@
-# Income-Tax-Lab-Assignment
-OOP design demonstration on C#
+# OOP-Assignment-Task
+OOP mini project, task and assignments done C# and Java.
